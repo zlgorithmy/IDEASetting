@@ -13,6 +13,7 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
+    <option name="upperCaseButtons" value="false" />
     <option name="upperCaseTabs" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="treeFontSize" value="18" />
