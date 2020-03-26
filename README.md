@@ -1,2 +1,0 @@
-# IDEASetting
-intelli idea setting
