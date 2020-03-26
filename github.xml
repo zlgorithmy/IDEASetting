@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="b032125b-bb6a-4b7e-bf1d-2cd1baefc5b1" name="zlgorithmy">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
