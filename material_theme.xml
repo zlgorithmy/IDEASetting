@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -11,14 +10,13 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
-    <option name="upperCaseTabs" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="treeFontSize" value="18" />
     <option name="tabFontSize" value="18" />
-    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="42a5f5" />
     <option name="secondAccentColor" value="ffcf8e" />
     <option name="selectedTheme" value="ARC_DARK" />
