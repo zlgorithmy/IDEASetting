@@ -1,7 +1,12 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="DISABLING" />
+    </histories>
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
-    <option name="translator" value="fanyi.baidu" />
+    <option name="translator" value="ai.youdao" />
   </component>
 </application>
