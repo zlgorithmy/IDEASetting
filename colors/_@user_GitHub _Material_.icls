@@ -4,7 +4,7 @@
     <property name="created">2020-03-25T09:22:21</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2020-04-11T09:53:54</property>
+    <property name="modified">2020-04-13T09:54:37</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -481,7 +481,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="" />
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HTML_CODE">
       <value />
     </option>
@@ -579,7 +579,7 @@
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="Instance property reference ID" baseAttributes="" />
+    <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="32f62" />
@@ -661,7 +661,7 @@
         <option name="FOREGROUND" value="e36209" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="" />
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -1593,7 +1593,7 @@
         <option name="FOREGROUND" value="5cc5" />
       </value>
     </option>
-    <option name="Static property reference ID" baseAttributes="" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5cc4" />
@@ -1636,7 +1636,7 @@
         <option name="BACKGROUND" value="b90000" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="" />
+    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Unused entry">
       <value>
         <option name="FOREGROUND" value="aaaaaa" />
