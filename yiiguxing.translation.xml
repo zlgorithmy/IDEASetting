@@ -1,14 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Long" />
       <item value="81" />
       <item value="module" />
       <item value="DISABLING" />
     </histories>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200507000442836" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
-    <option name="translator" value="ai.youdao" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
