@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Progress Listener" />
+      <item value="File" />
       <item value="Long" />
       <item value="81" />
       <item value="module" />
       <item value="DISABLING" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
