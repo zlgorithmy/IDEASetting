@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="usage" />
       <item value="scene" />
       <item value="Replay Dialog" />
       <item value="Progress Listener" />
@@ -13,7 +14,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
