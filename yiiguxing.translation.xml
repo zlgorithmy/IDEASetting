@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identical" />
       <item value="西安城墙" />
       <item value="usage" />
       <item value="scene" />
@@ -14,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
