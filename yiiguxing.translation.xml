@@ -29,6 +29,7 @@
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
+    <option name="translateDocumentation" value="false" />
     <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
