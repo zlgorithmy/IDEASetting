@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="aar" type="AAR" />
-      <mapping ext="aar" type="ARCHIVE" />
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="1)" type="PLAIN_TEXT" />
