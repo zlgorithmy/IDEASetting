@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="71185882-3cb8-4f57-a415-145fa3c68a7a" name="zlgorithmy">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
