@@ -6,6 +6,7 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isMaterialDesign" value="false" />
     <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
