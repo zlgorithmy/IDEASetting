@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="4" />
       <item value="3" />
       <item value="identical" />
       <item value="C 0847 D 31 C 330" />
@@ -31,7 +32,6 @@
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
-    <option name="translateDocumentation" value="false" />
     <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
