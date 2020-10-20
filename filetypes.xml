@@ -2,19 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
-      <mapping pattern="ViewMoreDB" type="Ini" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="aplog" type="PLAIN_TEXT" />
-      <mapping pattern="mode" type="PLAIN_TEXT" />
       <mapping pattern="1)" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="mode" type="PLAIN_TEXT" />
+      <mapping pattern="aplog" type="PLAIN_TEXT" />
       <mapping ext="skel" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping ext="1" type="YouTrack" />
+      <mapping pattern="ViewMoreDB" type="Ini" />
     </extensionMap>
   </component>
 </application>
