@@ -1,5 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="customTreeIndentEnabled" value="true" />
+    <option name="styledDirectories" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -17,10 +22,10 @@
     <option name="useMaterialFont2" value="true" />
     <option name="treeFontSize" value="18" />
     <option name="tabFontSize" value="18" />
-    <option name="accentColor" value="42a5f5" />
+    <option name="accentColor" value="416a9b" />
     <option name="secondAccentColor" value="ffcf8e" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-59058cf0:16a619d8537:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
