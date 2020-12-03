@@ -4,6 +4,7 @@
       <blacklist language="Java">
         <added pattern="org.videolan.libvlc.IVLCVout.attachViews(onNewVideoLayoutListener)" />
         <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
+        <added pattern="android.widget.TextView.TextView(context)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
